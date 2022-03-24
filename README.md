@@ -1,15 +1,21 @@
 <div align=center><h1>Hyemin Yu 혜민</h1></div>
 
-<div align="center">
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyemco&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemco&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+- 😄 I'm Hyemin Yu
+- 👀 I’m interested in Java, Spring
+- 🌱 I’m currently learning Spring
+
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyemco&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemco&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+### 🛠 Tech Stack 🛠
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -23,15 +29,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </div>
 <br>
-<h3 align="center">🍀 Contact 🍀</h3>
 
-<div align="center">
-  <a href="https://velog.io/@hyemco"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/hyemco"/></a>&nbsp
-  <a href="mailto:hyemco@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyemco@gmail.com"/></a>
-</div>
+### 🍀 Contact 🍀
 
-<!--
-**hyemco/hyemco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+<a href="https://velog.io/@hyemco"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/hyemco"/></a>&nbsp
+<a href="mailto:hyemco@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyemco@gmail.com"/></a>
+
+<!-- **hyemco/hyemco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,5 +48,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->

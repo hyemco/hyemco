@@ -34,7 +34,7 @@
 
 <div>
   
-<a href="https://velog.io/@hyemco"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/hyemco"/></a>&nbsp
+<a href="https://velog.io/@hyemco"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/hyemco"/></a>
 <a href="mailto:hyemco@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyemco@gmail.com"/></a>
 
 <!-- **hyemco/hyemco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
